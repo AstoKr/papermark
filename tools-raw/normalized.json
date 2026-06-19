@@ -1,0 +1,1718 @@
+{
+  "findings": [
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "trufflehog",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "trufflehog",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "trufflehog",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "trufflehog",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "trufflehog",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "trufflehog",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "semgrep",
+      "file": ".gitnexus/wiki/index.html",
+      "line": 101,
+      "severity": "WARNING",
+      "rule_id": "java.lang.security.audit.xss.jsf.autoescape-disabled.autoescape-disabled",
+      "description": "Detected an element with disabled HTML escaping. If external data can reach this, this is a cross-site scripting (XSS) vulnerability. Ensure no external data can reach here, or remove 'escape=false' from this element.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "app/(ee)/api/ai/store/teams/[teamId]/datarooms/[dataroomId]/route.ts",
+      "line": 227,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "app/(ee)/api/scim/v2.0/[...directory]/route.ts",
+      "line": 313,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "components/account/upload-avatar.tsx",
+      "line": 96,
+      "severity": "WARNING",
+      "rule_id": "typescript.react.security.audit.react-dangerouslysetinnerhtml.react-dangerouslysetinnerhtml",
+      "description": "Detection of dangerouslySetInnerHTML from non-constant definition. This can inadvertently expose users to cross-site scripting (XSS) attacks if this comes from user-provided input. If you have to use dangerouslySetInnerHTML, consider using a sanitization library such as DOMPurify to sanitize your HTML.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "components/ui/timestamp-tooltip.tsx",
+      "line": 210,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "ee/features/conversations/components/dashboard/conversations-not-enabled-banner.tsx",
+      "line": 121,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "ee/features/conversions/python/docx-sanitizer.py",
+      "line": 146,
+      "severity": "ERROR",
+      "rule_id": "python.lang.security.use-defused-xml-parse.use-defused-xml-parse",
+      "description": "The native Python `xml` library is vulnerable to XML External Entity (XXE) attacks.  These attacks can leak confidential data and \"XML bombs\" can cause denial of service. Do not use this library to parse untrusted input. Instead  the Python documentation recommends using `defusedxml`.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "ee/features/workflows/lib/engine.ts",
+      "line": 129,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "ee/features/workflows/lib/engine.ts",
+      "line": 307,
+      "severity": "WARNING",
+      "rule_id": "javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp",
+      "description": "RegExp() called with a `condition` function argument, this might allow an attacker to cause a Regular Expression Denial-of-Service (ReDoS) within your application as RegExP blocks the main thread. For this reason, it is recommended to use hardcoded regexes instead. If your regex is run on user-controlled input, consider performing input validation or use a regex checking/sanitization library such as https://www.npmjs.com/package/recheck to verify that the regex does not appear vulnerable to ReDoS.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "lib/api/links/bulk-import.ts",
+      "line": 339,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "lib/api/links/revalidate.ts",
+      "line": 23,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "lib/api/links/revalidate.ts",
+      "line": 57,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "lib/api/links/revalidate.ts",
+      "line": 63,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "lib/integrations/slack/events.ts",
+      "line": 121,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "lib/integrations/slack/utils.ts",
+      "line": 110,
+      "severity": "ERROR",
+      "rule_id": "javascript.node-crypto.security.gcm-no-tag-length.gcm-no-tag-length",
+      "description": "The call to 'createDecipheriv' with the Galois Counter Mode (GCM) mode of operation is missing an expected authentication tag length. If the expected authentication tag length is not specified or otherwise checked, the application might be tricked into verifying a shorter-than-expected authentication tag. This can be abused by an attacker to spoof ciphertexts or recover the implicit authentication key of GCM, allowing arbitrary forgeries.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "lib/redis/dataroom-notification-queue.ts",
+      "line": 104,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "lib/utils/reliable-tracking.ts",
+      "line": 97,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "lib/year-in-review/send-emails.ts",
+      "line": 78,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "pages/api/auth/[...nextauth].ts",
+      "line": 171,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "pages/api/file/tus-viewer/[[...file]].ts",
+      "line": 237,
+      "severity": "WARNING",
+      "rule_id": "javascript.express.security.cors-misconfiguration.cors-misconfiguration",
+      "description": "By letting user input control CORS parameters, there is a risk that software does not properly verify that the source of data or communication is valid. Use literal values for CORS settings.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "pages/api/teams/[teamId]/datarooms/[id]/apply-permissions.ts",
+      "line": 44,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "pages/api/teams/[teamId]/datarooms/[id]/apply-permissions.ts",
+      "line": 50,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "pages/api/teams/[teamId]/datarooms/[id]/permission-groups/[permissionGroupId].ts",
+      "line": 453,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "pages/api/teams/[teamId]/datarooms/trial.ts",
+      "line": 159,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "pages/api/teams/[teamId]/viewers/[id]/index.ts",
+      "line": 41,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "black",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "cryptography",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "gitpython",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "idna",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "requests",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "tornado",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "urllib3",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "wheel",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "@grpc/grpc-js",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "@opentelemetry/core",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "@opentelemetry/core",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "@opentelemetry/core",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "cookie",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "dompurify",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "esbuild",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "form-data",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "glob",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "hono",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "js-yaml",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "next",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "nodemailer",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "pdfjs-dist",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "postcss",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "protobufjs",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "protobufjs",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "systeminformation",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "tar",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "tmp",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "underscore",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "undici",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "uuid",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "ws",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "ws",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "xlsx",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "@boxyhq/metrics",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "@grpc/grpc-js",
+      "description": "npm: @boxyhq/metrics - high severity",
+      "evidence": "range: <=0.2.13"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "@boxyhq/saml-jackson",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "@boxyhq/metrics",
+      "description": "npm: @boxyhq/saml-jackson - high severity",
+      "evidence": "range: 1.52.2-beta.15739 - 1.52.2-beta.15745 || >=26.2.0"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "@grpc/grpc-js",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": {
+        "source": 1120582,
+        "name": "@grpc/grpc-js",
+        "dependency": "@grpc/grpc-js",
+        "title": "@grpc/grpc-js: A malformed request can cause a server crash",
+        "url": "https://github.com/advisories/GHSA-5375-pq7m-f5r2",
+        "severity": "high",
+        "cwe": [
+          "CWE-248"
+        ],
+        "cvss": {
+          "score": 7.5,
+          "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
+        },
+        "range": ">=1.14.0 <1.14.4"
+      },
+      "description": "npm: @grpc/grpc-js - high severity",
+      "evidence": "range: 1.14.0 - 1.14.3"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "@mapbox/node-pre-gyp",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "tar",
+      "description": "npm: @mapbox/node-pre-gyp - high severity",
+      "evidence": "range: <=1.0.11"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "@next/eslint-plugin-next",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "glob",
+      "description": "npm: @next/eslint-plugin-next - high severity",
+      "evidence": "range: 14.0.5-canary.0 - 15.0.0-rc.1"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "@opentelemetry/core",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": {
+        "source": 1120821,
+        "name": "@opentelemetry/core",
+        "dependency": "@opentelemetry/core",
+        "title": "OpenTelemetry Core: Unbounded memory allocation in W3C Baggage propagation",
+        "url": "https://github.com/advisories/GHSA-8988-4f7v-96qf",
+        "severity": "moderate",
+        "cwe": [
+          "CWE-770"
+        ],
+        "cvss": {
+          "score": 5.3,
+          "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L"
+        },
+        "range": "<2.8.0"
+      },
+      "description": "npm: @opentelemetry/core - moderate severity",
+      "evidence": "range: <2.8.0"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "@opentelemetry/exporter-logs-otlp-http",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "@opentelemetry/core",
+      "description": "npm: @opentelemetry/exporter-logs-otlp-http - moderate severity",
+      "evidence": "range: <=0.218.0"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "@opentelemetry/exporter-metrics-otlp-grpc",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "@opentelemetry/core",
+      "description": "npm: @opentelemetry/exporter-metrics-otlp-grpc - moderate severity",
+      "evidence": "range: <=0.218.0"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "@opentelemetry/exporter-metrics-otlp-http",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "@opentelemetry/core",
+      "description": "npm: @opentelemetry/exporter-metrics-otlp-http - moderate severity",
+      "evidence": "range: <=0.218.0"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "@opentelemetry/exporter-trace-otlp-http",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "@opentelemetry/core",
+      "description": "npm: @opentelemetry/exporter-trace-otlp-http - moderate severity",
+      "evidence": "range: <=0.218.0"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "@opentelemetry/host-metrics",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "systeminformation",
+      "description": "npm: @opentelemetry/host-metrics - high severity",
+      "evidence": "range: <=0.15.0 || 0.35.2 - 0.38.0"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "@opentelemetry/otlp-exporter-base",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "@opentelemetry/core",
+      "description": "npm: @opentelemetry/otlp-exporter-base - moderate severity",
+      "evidence": "range: <=0.218.0"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "@opentelemetry/otlp-grpc-exporter-base",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "@opentelemetry/core",
+      "description": "npm: @opentelemetry/otlp-grpc-exporter-base - moderate severity",
+      "evidence": "range: <=0.218.0"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "@opentelemetry/otlp-transformer",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "@opentelemetry/core",
+      "description": "npm: @opentelemetry/otlp-transformer - moderate severity",
+      "evidence": "range: <=0.218.0"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "@opentelemetry/resources",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "@opentelemetry/core",
+      "description": "npm: @opentelemetry/resources - moderate severity",
+      "evidence": "range: 0.8.0 - 2.7.1"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "@opentelemetry/sdk-logs",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "@opentelemetry/core",
+      "description": "npm: @opentelemetry/sdk-logs - moderate severity",
+      "evidence": "range: <=0.218.0"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "@opentelemetry/sdk-metrics",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "@opentelemetry/core",
+      "description": "npm: @opentelemetry/sdk-metrics - moderate severity",
+      "evidence": "range: <=2.7.1"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "@opentelemetry/sdk-trace-base",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "@opentelemetry/core",
+      "description": "npm: @opentelemetry/sdk-trace-base - moderate severity",
+      "evidence": "range: <=2.7.1"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "@opentelemetry/sdk-trace-node",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "@opentelemetry/core",
+      "description": "npm: @opentelemetry/sdk-trace-node - moderate severity",
+      "evidence": "range: <=2.7.1"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "@react-email/ui",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "esbuild",
+      "description": "npm: @react-email/ui - moderate severity",
+      "evidence": "range: *"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "@teamhanko/passkeys-next-auth-provider",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "next-auth",
+      "description": "npm: @teamhanko/passkeys-next-auth-provider - moderate severity",
+      "evidence": "range: >=0.1.8"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "@trigger.dev/build",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "@trigger.dev/core",
+      "description": "npm: @trigger.dev/build - moderate severity",
+      "evidence": "range: <=0.0.0-v4-prerelease-20251212083119 || >=4.0.0-v4-beta.0"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "@trigger.dev/core",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "@opentelemetry/core",
+      "description": "npm: @trigger.dev/core - high severity",
+      "evidence": "range: >=3.0.0-beta.0"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "@trigger.dev/python",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "@trigger.dev/build",
+      "description": "npm: @trigger.dev/python - moderate severity",
+      "evidence": "range: <=0.0.0-v4-prerelease-20251212083119 || >=4.0.0-v4-beta.0"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "@trigger.dev/react-hooks",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "@trigger.dev/core",
+      "description": "npm: @trigger.dev/react-hooks - moderate severity",
+      "evidence": "range: <=0.0.0-v4-prerelease-20251212083119 || >=4.0.0-v4-beta.0"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "@trigger.dev/sdk",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "@trigger.dev/core",
+      "description": "npm: @trigger.dev/sdk - moderate severity",
+      "evidence": "range: <=0.0.0-v4-prerelease-20251212083119 || >=4.0.0-v4-beta.0"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "canvas",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "@mapbox/node-pre-gyp",
+      "description": "npm: canvas - high severity",
+      "evidence": "range: 2.8.0 - 2.11.2"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "cookie",
+      "line": 0,
+      "severity": "LOW",
+      "rule_id": {
+        "source": 1103907,
+        "name": "cookie",
+        "dependency": "cookie",
+        "title": "cookie accepts cookie name, path, and domain with out of bounds characters",
+        "url": "https://github.com/advisories/GHSA-pxg6-pf52-xh8x",
+        "severity": "low",
+        "cwe": [
+          "CWE-74"
+        ],
+        "cvss": {
+          "score": 0,
+          "vectorString": null
+        },
+        "range": "<0.7.0"
+      },
+      "description": "npm: cookie - low severity",
+      "evidence": "range: <0.7.0"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "dompurify",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": {
+        "source": 1120800,
+        "name": "dompurify",
+        "dependency": "dompurify",
+        "title": "DOMPurify: `IN_PLACE` mode trusts attacker-controlled `nodeName` on live non-form nodes, allowing script retention and XSS via attacker-supplied DOM objects",
+        "url": "https://github.com/advisories/GHSA-x4vx-rjvf-j5p4",
+        "severity": "low",
+        "cwe": [
+          "CWE-79"
+        ],
+        "cvss": {
+          "score": 0,
+          "vectorString": null
+        },
+        "range": "<=3.4.6"
+      },
+      "description": "npm: dompurify - moderate severity",
+      "evidence": "range: <=3.4.10"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "dub",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "jsonpath",
+      "description": "npm: dub - high severity",
+      "evidence": "range: 0.71.6 - 0.71.7"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "engine.io",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "cookie",
+      "description": "npm: engine.io - high severity",
+      "evidence": "range: 0.7.8 - 0.7.9 || 1.8.0 - 6.6.8"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "engine.io-client",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "ws",
+      "description": "npm: engine.io-client - moderate severity",
+      "evidence": "range: 0.7.0 || 0.7.8 - 0.7.9 || 6.0.0 - 6.6.4"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "esbuild",
+      "line": 0,
+      "severity": "LOW",
+      "rule_id": {
+        "source": 1120680,
+        "name": "esbuild",
+        "dependency": "esbuild",
+        "title": "esbuild allows arbitrary file read when running the development server on Windows",
+        "url": "https://github.com/advisories/GHSA-g7r4-m6w7-qqqr",
+        "severity": "low",
+        "cwe": [
+          "CWE-22"
+        ],
+        "cvss": {
+          "score": 2.5,
+          "vectorString": "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:N/I:L/A:N"
+        },
+        "range": ">=0.27.3 <0.28.1"
+      },
+      "description": "npm: esbuild - low severity",
+      "evidence": "range: 0.27.3 - 0.28.0"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "eslint-config-next",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "@next/eslint-plugin-next",
+      "description": "npm: eslint-config-next - high severity",
+      "evidence": "range: 14.0.5-canary.0 - 15.0.0-rc.1"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "exceljs",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "uuid",
+      "description": "npm: exceljs - moderate severity",
+      "evidence": "range: >=3.5.0"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "form-data",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": {
+        "source": 1120743,
+        "name": "form-data",
+        "dependency": "form-data",
+        "title": "form-data: CRLF injection in form-data via unescaped multipart field names and filenames",
+        "url": "https://github.com/advisories/GHSA-hmw2-7cc7-3qxx",
+        "severity": "high",
+        "cwe": [
+          "CWE-93"
+        ],
+        "cvss": {
+          "score": 7.5,
+          "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N"
+        },
+        "range": ">=4.0.0 <4.0.6"
+      },
+      "description": "npm: form-data - high severity",
+      "evidence": "range: 4.0.0 - 4.0.5"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "glob",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": {
+        "source": 1109842,
+        "name": "glob",
+        "dependency": "glob",
+        "title": "glob CLI: Command injection via -c/--cmd executes matches with shell:true",
+        "url": "https://github.com/advisories/GHSA-5j98-mcp5-4vw2",
+        "severity": "high",
+        "cwe": [
+          "CWE-78"
+        ],
+        "cvss": {
+          "score": 7.5,
+          "vectorString": "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "range": ">=10.2.0 <10.5.0"
+      },
+      "description": "npm: glob - high severity",
+      "evidence": "range: 10.2.0 - 10.4.5"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "hono",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": {
+        "source": 1120082,
+        "name": "hono",
+        "dependency": "hono",
+        "title": "Hono: IP Restriction bypasses static deny rules for non-canonical IPv6 ",
+        "url": "https://github.com/advisories/GHSA-xrhx-7g5j-rcj5",
+        "severity": "moderate",
+        "cwe": [
+          "CWE-185",
+          "CWE-1289"
+        ],
+        "cvss": {
+          "score": 5.3,
+          "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N"
+        },
+        "range": "<4.12.21"
+      },
+      "description": "npm: hono - high severity",
+      "evidence": "range: <=4.12.24"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "js-yaml",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": {
+        "source": 1120792,
+        "name": "js-yaml",
+        "dependency": "js-yaml",
+        "title": "JS-YAML: Quadratic-complexity DoS in merge key handling via repeated aliases",
+        "url": "https://github.com/advisories/GHSA-h67p-54hq-rp68",
+        "severity": "moderate",
+        "cwe": [
+          "CWE-407"
+        ],
+        "cvss": {
+          "score": 5.3,
+          "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L"
+        },
+        "range": "<=4.1.1"
+      },
+      "description": "npm: js-yaml - moderate severity",
+      "evidence": "range: <=4.1.1"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "jsonpath",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "underscore",
+      "description": "npm: jsonpath - high severity",
+      "evidence": "range: *"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "next",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": {
+        "source": 1112593,
+        "name": "next",
+        "dependency": "next",
+        "title": "Next.js self-hosted applications vulnerable to DoS via Image Optimizer remotePatterns configuration",
+        "url": "https://github.com/advisories/GHSA-9g9p-9gw9-jx7f",
+        "severity": "moderate",
+        "cwe": [
+          "CWE-400",
+          "CWE-770"
+        ],
+        "cvss": {
+          "score": 5.9,
+          "vectorString": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H"
+        },
+        "range": ">=10.0.0 <15.5.10"
+      },
+      "description": "npm: next - high severity",
+      "evidence": "range: 9.3.4-canary.0 - 16.3.0-canary.5"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "next-auth",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "nodemailer",
+      "description": "npm: next-auth - moderate severity",
+      "evidence": "range: <=0.0.0-semantically-released || >=1.1.0"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "nodemailer",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": {
+        "source": 1115470,
+        "name": "nodemailer",
+        "dependency": "nodemailer",
+        "title": "Nodemailer has SMTP command injection due to unsanitized `envelope.size` parameter",
+        "url": "https://github.com/advisories/GHSA-c7w3-x93f-qmm8",
+        "severity": "low",
+        "cwe": [
+          "CWE-93"
+        ],
+        "cvss": {
+          "score": 0,
+          "vectorString": null
+        },
+        "range": "<8.0.4"
+      },
+      "description": "npm: nodemailer - high severity",
+      "evidence": "range: <=9.0.0"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "pdfjs-dist",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": {
+        "source": 1118732,
+        "name": "pdfjs-dist",
+        "dependency": "pdfjs-dist",
+        "title": "PDF.js vulnerable to arbitrary JavaScript execution upon opening a malicious PDF",
+        "url": "https://github.com/advisories/GHSA-wgrm-67xf-hhpq",
+        "severity": "high",
+        "cwe": [
+          "CWE-754"
+        ],
+        "cvss": {
+          "score": 8.8,
+          "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "range": "<=4.1.392"
+      },
+      "description": "npm: pdfjs-dist - high severity",
+      "evidence": "range: <=4.7.76"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "postcss",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": {
+        "source": 1117015,
+        "name": "postcss",
+        "dependency": "postcss",
+        "title": "PostCSS has XSS via Unescaped </style> in its CSS Stringify Output",
+        "url": "https://github.com/advisories/GHSA-qx2v-qp2m-jg93",
+        "severity": "moderate",
+        "cwe": [
+          "CWE-79"
+        ],
+        "cvss": {
+          "score": 6.1,
+          "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N"
+        },
+        "range": "<8.5.10"
+      },
+      "description": "npm: postcss - moderate severity",
+      "evidence": "range: <8.5.10"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "posthog-js",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "@opentelemetry/exporter-logs-otlp-http",
+      "description": "npm: posthog-js - moderate severity",
+      "evidence": "range: 1.319.0 - 1.379.0"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "protobufjs",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": {
+        "source": 1119377,
+        "name": "protobufjs",
+        "dependency": "protobufjs",
+        "title": "protobufjs: Denial of Service via unbounded recursive JSON descriptor expansion",
+        "url": "https://github.com/advisories/GHSA-jggg-4jg4-v7c6",
+        "severity": "moderate",
+        "cwe": [
+          "CWE-674"
+        ],
+        "cvss": {
+          "score": 5.3,
+          "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L"
+        },
+        "range": ">=8.0.0 <8.2.0"
+      },
+      "description": "npm: protobufjs - high severity",
+      "evidence": "range: <=7.6.2 || 8.0.0 - 8.5.0"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "react-pdf",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "pdfjs-dist",
+      "description": "npm: react-pdf - high severity",
+      "evidence": "range: 1.6.0 - 8.0.2"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "socket.io",
+      "line": 0,
+      "severity": "LOW",
+      "rule_id": "engine.io",
+      "description": "npm: socket.io - low severity",
+      "evidence": "range: 1.6.0 - 4.7.5"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "socket.io-adapter",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "ws",
+      "description": "npm: socket.io-adapter - high severity",
+      "evidence": "range: 2.5.2 - 2.5.7"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "socket.io-client",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "engine.io-client",
+      "description": "npm: socket.io-client - moderate severity",
+      "evidence": "range: 4.3.0 - 4.7.5"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "systeminformation",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": {
+        "source": 1111529,
+        "name": "systeminformation",
+        "dependency": "systeminformation",
+        "title": "systeminformation has a Command Injection vulnerability in fsSize() function on Windows",
+        "url": "https://github.com/advisories/GHSA-wphj-fx3q-84ch",
+        "severity": "high",
+        "cwe": [
+          "CWE-78"
+        ],
+        "cvss": {
+          "score": 8.1,
+          "vectorString": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "range": "<5.27.14"
+      },
+      "description": "npm: systeminformation - high severity",
+      "evidence": "range: <=5.31.5"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "tar",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": {
+        "source": 1114302,
+        "name": "tar",
+        "dependency": "tar",
+        "title": "node-tar Symlink Path Traversal via Drive-Relative Linkpath",
+        "url": "https://github.com/advisories/GHSA-9ppj-qmqm-q256",
+        "severity": "high",
+        "cwe": [
+          "CWE-22"
+        ],
+        "cvss": {
+          "score": 0,
+          "vectorString": null
+        },
+        "range": "<=7.5.10"
+      },
+      "description": "npm: tar - high severity",
+      "evidence": "range: <=7.5.15"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "tmp",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": {
+        "source": 1120654,
+        "name": "tmp",
+        "dependency": "tmp",
+        "title": "tmp has Path Traversal via unsanitized prefix/postfix that enables directory escape",
+        "url": "https://github.com/advisories/GHSA-ph9p-34f9-6g65",
+        "severity": "high",
+        "cwe": [
+          "CWE-22"
+        ],
+        "cvss": {
+          "score": 0,
+          "vectorString": null
+        },
+        "range": "<0.2.6"
+      },
+      "description": "npm: tmp - high severity",
+      "evidence": "range: <0.2.6"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "underscore",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": {
+        "source": 1117689,
+        "name": "underscore",
+        "dependency": "underscore",
+        "title": "Underscore has unlimited recursion in _.flatten and _.isEqual, potential for DoS attack",
+        "url": "https://github.com/advisories/GHSA-qpx9-hpmf-5gmw",
+        "severity": "high",
+        "cwe": [
+          "CWE-674",
+          "CWE-770"
+        ],
+        "cvss": {
+          "score": 5.9,
+          "vectorString": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H"
+        },
+        "range": "<=1.13.7"
+      },
+      "description": "npm: underscore - high severity",
+      "evidence": "range: <=1.13.7"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "undici",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": {
+        "source": 1121242,
+        "name": "undici",
+        "dependency": "undici",
+        "title": "undici vulnerable to HTTP header injection via Set-Cookie percent-decoding",
+        "url": "https://github.com/advisories/GHSA-p88m-4jfj-68fv",
+        "severity": "moderate",
+        "cwe": [
+          "CWE-93"
+        ],
+        "cvss": {
+          "score": 5.9,
+          "vectorString": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:H/A:N"
+        },
+        "range": "<6.27.0"
+      },
+      "description": "npm: undici - high severity",
+      "evidence": "range: <=6.26.0"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "uuid",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": {
+        "source": 1119441,
+        "name": "uuid",
+        "dependency": "uuid",
+        "title": "uuid: Missing buffer bounds check in v3/v5/v6 when buf is provided",
+        "url": "https://github.com/advisories/GHSA-w5hq-g745-h8pq",
+        "severity": "moderate",
+        "cwe": [
+          "CWE-787",
+          "CWE-1285"
+        ],
+        "cvss": {
+          "score": 7.5,
+          "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N"
+        },
+        "range": "<11.1.1"
+      },
+      "description": "npm: uuid - moderate severity",
+      "evidence": "range: <11.1.1"
+    },
+    {
+      "tool": "npm-audit",
+      "file": "ws",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": {
+        "source": 1119108,
+        "name": "ws",
+        "dependency": "ws",
+        "title": "ws: Uninitialized memory disclosure",
+        "url": "https://github.com/advisories/GHSA-58qx-3vcg-4xpx",
+        "severity": "moderate",
+        "cwe": [
+          "CWE-908"
+        ],
+        "cvss": {
+          "score": 4.4,
+          "vectorString": "CVSS:3.1/AV:N/AC:H/PR:H/UI:N/S:U/C:H/I:N/A:N"
+        },
+        "range": ">=8.0.0 <8.20.1"
+      },
+      "description": "npm: ws - high severity",
+      "evidence": "range: 8.0.0 - 8.20.1"
+    }
+  ],
+  "summary": {
+    "total_findings": 152,
+    "by_severity": {
+      "HIGH": 62,
+      "WARNING": 4,
+      "INFO": 19,
+      "ERROR": 2,
+      "MEDIUM": 34,
+      "MODERATE": 28,
+      "LOW": 3
+    },
+    "by_tool": {
+      "gitleaks": 29,
+      "trufflehog": 6,
+      "semgrep": 25,
+      "osv-scanner": 34,
+      "npm-audit": 58
+    },
+    "tools_with_findings": [
+      "trufflehog",
+      "semgrep",
+      "osv-scanner",
+      "syft",
+      "gitleaks",
+      "npm-audit"
+    ]
+  }
+}
