@@ -1,6 +1,852 @@
 {
   "findings": [
     {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "gitleaks",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "trufflehog",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "trufflehog",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "trufflehog",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "trufflehog",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "trufflehog",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "trufflehog",
+      "file": "unknown",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "",
+      "description": "Secret detected",
+      "evidence": ""
+    },
+    {
+      "tool": "semgrep",
+      "file": ".gitnexus/wiki/index.html",
+      "line": 101,
+      "severity": "WARNING",
+      "rule_id": "java.lang.security.audit.xss.jsf.autoescape-disabled.autoescape-disabled",
+      "description": "Detected an element with disabled HTML escaping. If external data can reach this, this is a cross-site scripting (XSS) vulnerability. Ensure no external data can reach here, or remove 'escape=false' from this element.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "app/(ee)/api/ai/store/teams/[teamId]/datarooms/[dataroomId]/route.ts",
+      "line": 227,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "app/(ee)/api/scim/v2.0/[...directory]/route.ts",
+      "line": 313,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "components/account/upload-avatar.tsx",
+      "line": 96,
+      "severity": "WARNING",
+      "rule_id": "typescript.react.security.audit.react-dangerouslysetinnerhtml.react-dangerouslysetinnerhtml",
+      "description": "Detection of dangerouslySetInnerHTML from non-constant definition. This can inadvertently expose users to cross-site scripting (XSS) attacks if this comes from user-provided input. If you have to use dangerouslySetInnerHTML, consider using a sanitization library such as DOMPurify to sanitize your HTML.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "components/ui/timestamp-tooltip.tsx",
+      "line": 210,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "ee/features/conversations/components/dashboard/conversations-not-enabled-banner.tsx",
+      "line": 121,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "ee/features/conversions/python/docx-sanitizer.py",
+      "line": 146,
+      "severity": "ERROR",
+      "rule_id": "python.lang.security.use-defused-xml-parse.use-defused-xml-parse",
+      "description": "The native Python `xml` library is vulnerable to XML External Entity (XXE) attacks.  These attacks can leak confidential data and \"XML bombs\" can cause denial of service. Do not use this library to parse untrusted input. Instead  the Python documentation recommends using `defusedxml`.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "ee/features/workflows/lib/engine.ts",
+      "line": 129,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "ee/features/workflows/lib/engine.ts",
+      "line": 307,
+      "severity": "WARNING",
+      "rule_id": "javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp",
+      "description": "RegExp() called with a `condition` function argument, this might allow an attacker to cause a Regular Expression Denial-of-Service (ReDoS) within your application as RegExP blocks the main thread. For this reason, it is recommended to use hardcoded regexes instead. If your regex is run on user-controlled input, consider performing input validation or use a regex checking/sanitization library such as https://www.npmjs.com/package/recheck to verify that the regex does not appear vulnerable to ReDoS.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "lib/api/links/bulk-import.ts",
+      "line": 339,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "lib/api/links/revalidate.ts",
+      "line": 23,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "lib/api/links/revalidate.ts",
+      "line": 57,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "lib/api/links/revalidate.ts",
+      "line": 63,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "lib/integrations/slack/events.ts",
+      "line": 121,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "lib/integrations/slack/utils.ts",
+      "line": 110,
+      "severity": "ERROR",
+      "rule_id": "javascript.node-crypto.security.gcm-no-tag-length.gcm-no-tag-length",
+      "description": "The call to 'createDecipheriv' with the Galois Counter Mode (GCM) mode of operation is missing an expected authentication tag length. If the expected authentication tag length is not specified or otherwise checked, the application might be tricked into verifying a shorter-than-expected authentication tag. This can be abused by an attacker to spoof ciphertexts or recover the implicit authentication key of GCM, allowing arbitrary forgeries.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "lib/redis/dataroom-notification-queue.ts",
+      "line": 104,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "lib/utils/reliable-tracking.ts",
+      "line": 97,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "lib/year-in-review/send-emails.ts",
+      "line": 78,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "pages/api/auth/[...nextauth].ts",
+      "line": 171,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "pages/api/file/tus-viewer/[[...file]].ts",
+      "line": 237,
+      "severity": "WARNING",
+      "rule_id": "javascript.express.security.cors-misconfiguration.cors-misconfiguration",
+      "description": "By letting user input control CORS parameters, there is a risk that software does not properly verify that the source of data or communication is valid. Use literal values for CORS settings.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "pages/api/teams/[teamId]/datarooms/[id]/apply-permissions.ts",
+      "line": 44,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "pages/api/teams/[teamId]/datarooms/[id]/apply-permissions.ts",
+      "line": 50,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "pages/api/teams/[teamId]/datarooms/[id]/permission-groups/[permissionGroupId].ts",
+      "line": 453,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "pages/api/teams/[teamId]/datarooms/trial.ts",
+      "line": 159,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "semgrep",
+      "file": "pages/api/teams/[teamId]/viewers/[id]/index.ts",
+      "line": 41,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "black",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "cryptography",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "gitpython",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "idna",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "requests",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "tornado",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "urllib3",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "wheel",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "@grpc/grpc-js",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "@opentelemetry/core",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "@opentelemetry/core",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "@opentelemetry/core",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "cookie",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "dompurify",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "esbuild",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "form-data",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "glob",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "hono",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "js-yaml",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "next",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "nodemailer",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "pdfjs-dist",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "postcss",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "protobufjs",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "protobufjs",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "systeminformation",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "tar",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "tmp",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "underscore",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "undici",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "uuid",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "ws",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "ws",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
+      "tool": "osv-scanner",
+      "file": "xlsx",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "",
+      "description": ": Vulnerable dependency",
+      "evidence": "version: unknown"
+    },
+    {
       "tool": "npm-audit",
       "file": "@boxyhq/metrics",
       "line": 0,
@@ -843,16 +1689,28 @@
     }
   ],
   "summary": {
-    "total_findings": 58,
+    "total_findings": 152,
     "by_severity": {
-      "HIGH": 27,
+      "HIGH": 62,
+      "WARNING": 4,
+      "INFO": 19,
+      "ERROR": 2,
+      "MEDIUM": 34,
       "MODERATE": 28,
       "LOW": 3
     },
     "by_tool": {
+      "gitleaks": 29,
+      "trufflehog": 6,
+      "semgrep": 25,
+      "osv-scanner": 34,
       "npm-audit": 58
     },
     "tools_with_findings": [
+      "trufflehog",
+      "semgrep",
+      "osv-scanner",
+      "syft",
       "gitleaks",
       "npm-audit"
     ]
