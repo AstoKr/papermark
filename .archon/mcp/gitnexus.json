@@ -1,0 +1,9 @@
+{
+  "gitnexus": {
+    "command": "gitnexus",
+    "args": ["mcp"],
+    "env": {
+      "GITNEXUS_HOME": "/home/hunter/.gitnexus"
+    }
+  }
+}

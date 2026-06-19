@@ -72,4 +72,6 @@ changelog
 # Local sync workflow dry-run output
 _public/
 
-.opencode
+.opencode.gitnexus/lbug/
+.gitnexus/parse-cache/
+.gitnexus/*.db
