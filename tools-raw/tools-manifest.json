@@ -1,0 +1,22 @@
+{
+  "ran": [
+    "git-log",
+    "npm"
+  ],
+  "skipped": [
+    "gitleaks",
+    "osv-scanner",
+    "semgrep",
+    "syft",
+    "trufflehog"
+  ],
+  "language_detection": {
+    "javascript": true,
+    "python": false,
+    "go": false,
+    "ruby": false,
+    "java": false
+  },
+  "total_ran": 2,
+  "total_skipped": 5
+}

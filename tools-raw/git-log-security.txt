@@ -1,0 +1,50 @@
+8dc80f7e fix(documents): upload new version against correct document id in dataroom view
+0995a19d feat: language updates
+7a732a73 feat(ee): add dataroom request list
+bb93baab fix: watermark download parity images flatten 21be
+91daf245 Polish team member dialogs and use neutral Checkbox for data rooms
+9a36dc77 fix(integrations/slack): prevent channel list fetch from timing out
+c94fb284 feat: dataroom scoped members
+49c6558a feat(teams): provision new teams on datarooms-premium for eligible admins (up to 5)
+e2fc1690 feat(datarooms): add option to remove the hierarchical index
+dd6ef60b feat(teams): provision new teams on datarooms-unlimited for eligible admins
+487938e5 Add .md (markdown) file support for public API and dashboard
+cd374a9a Enable token page for teams with the tokens feature flag
+7fc0fed4 Open Tokens settings for Data Rooms plans (remove feature flag gate)
+1256d541 Add Cmd+K/Ctrl+K shortcut to focus and highlight document search
+0b580b78 fix(screen-protection): listen on both keydown and keyup for all shortcut groups
+f4d00e0a Improve screenshot & print protection coverage
+e868d074 feat: add to allow list from blocked email e2cf
+0618aab9 feat(billing): show billing tab to all team members
+3d8c44d3 feat: add document signing
+aae4069c fix(notion): don't blur embedded videos (YouTube) when screen protection is on
+340d5471 fix: render full-width Notion pages at full width in viewer
+933da799 Fix Notion gallery card covers and Drive links
+16bf79e5 Allow dataroom trial accounts to invite viewers when `dataroomInvitations` flag is enabled
+4743eb72 fix: unblock notifications
+1e88cf87 fix: cloudfront AccessDenied for downloads with renamed filename
+81b8508e revert fix
+f4e5850d feat: improve intro page and q&a permission
+21d5a2ac fix: dataroom individual file download silently failing
+a67fc9c0 feat: allow downloading latest version for video documents
+cccb8a29 feat: add confidential view
+91f7d62f feat: add MCP output schemas
+b7a02744 feat(tokens): redesign API tokens settings with dialogs and clean table
+b1fd5706 fix: exclude /mcp from auth middleware so remote MCP endpoint returns 401
+adb94175 fix(upload): silently skip OS junk files in folder picker
+5367d382 feat: add new files button
+9af33b95 feat: add branding layouts
+b68c937b Accept comma/semicolon/newline in email + domain list inputs and block silent saves
+8cf44605 fix: show dataroom index for drplus and higher and those with feature…
+5a912154 fix(viewer): hide page indicator when document has only 1 page
+74847f64 feat: add group analytics
+3eb63fbd feat: improve dataroom folder upload traversal perf b08f
+7e1d8b06 feat(mobile): add team switcher to mobile More menu
+9db42913 fix(api/views): close authorization bypass on POST /api/views
+375f919e feat: allow any team role to create API tokens
+eae3a3ac feat: add bulk link results csv download 3a63
+aaaa9583 feat: add .rar and other compressed content types
+a378307b feat: honor dataroomInvitations feature flag for invite gating
+435e6e3a fix: update domain redirect
+8ffa04af feat: add dataroom group default file permissions ac2b
+0c0c80ee feat: update link permissions
