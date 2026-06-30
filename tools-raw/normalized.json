@@ -1,0 +1,2048 @@
+{
+  "findings": [
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 108,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "oauth.prisma\": \"27de475defb3345efa0d03fe092784b6e256c7913c353352e6bae131000a461b\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 124,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "tokens.tsx\": \"59deaaaa700592fd5a896d3e94882eaa9a06acbbafd0e11218ced06e049d2d7f\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 146,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "progress-token.ts\": \"5fb93926b3e6de1af156ce60765b501152cc15d8ab9f0ff51ebbefd9058b745f\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 152,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "access-form.json\": \"96bb9e0ff3858afec401d50e7dae1c0cd3f2e81f8ac033c87f05c23693b695fa\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 155,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "access-form.json\": \"56fe113ec1e2b8d38c06f13480253181ac2600e8ef284e9b9cdc9f032cfa74f0\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 158,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "access-form.json\": \"633204b15e5792be77733a31a38563e65210c90ffd0d743281f5a5af6ea865f2\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 161,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "access-form.json\": \"fd1efee85db2294a32972a60733a58ddcb9c69e943ac45d2ebc71f3e18f59c92\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 164,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "access-form.json\": \"6beae1618fee573151803f0aa35de46afbf200592f9ff6f6f6bd4027991105dd\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 170,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "access-form.json\": \"8ce3705f8cbe418b2743e7778a21ef8ae27c79daa2be4bce70e9cf8c3e5aaa60\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 216,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "generate-trigger-auth-token.ts\": \"5265216593725a41bb84b0a8cf584308283830c24df3b2b685eb16300685494d\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 258,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "download-token.ts\": \"792494c8206b2190fe74139f65d9e24d2410bb02efd21e1a093a18ac100667bc\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 262,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "access-token.ts\": \"65b2aeb89acc988a7df4f4decfd5ed2630a456886aaf2d308e3f5c6dbd09e488\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 277,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "use-passkeys.ts\": \"0cae766c59c6e7ca9d56d82b0d1007f8e8577d0e2a9a3fe50d2fec1ea00e6e21\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 398,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "preview-auth.ts\": \"8ee23d5919ee4a132ae613c907ec166e25fadb4b626b92c1588804ac300085f2\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 400,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "dataroom-auth.ts\": \"b4237c1fdb5921f71a7555c5e7a2106ac75ba06526d4a004b6e1be0b419b7093\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 401,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "auth-options.ts\": \"345e9334d927c15ae19716288ec797573d03aa6fa2c891cd886c85e6c295711a\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 457,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "token-created-modal.tsx\": \"83a7a05031c90fd8e87ad4c390d005c0eba8364bcc9e0a66548097e9c451e9bb\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 459,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "delete-token-modal.tsx\": \"bd1d7cd439d5146e9e9659d5ea02bdedad2040db097507c6641e3dc8f22f1536\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 460,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "add-edit-token-modal.tsx\": \"758de34f798962feb96fce1866c0d408c5ff39027040276a4112abde27b25084\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 856,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "passkeys.ts\": \"46c0a3c85fe4a4253c34c542aae96b0263ae2f4f646d301d1da98ee28b63cc86\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 921,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "token.ts\": \"fbae3fe24e43c8f82b6ede207c0d91302fdfb4bb61b9bed72a1b932d0c06a187\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 922,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "passkey.ts\": \"908451713417aa9e424f510d3b501f3024855f96b64ef905dbac804571af0154\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 971,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "password-section.tsx\": \"1ad42a65a33486ca0d1828b5637ea8a44fce9fc124d6dfa9c6bba2e3d60753f5\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 978,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "access-form-theme.tsx\": \"7a43aec0b9e36c1dc84aba40a43047883ecad506532d36b2c0dbe8993bba7790\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 994,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "passkey.tsx\": \"24aa6f06e1b48c0472c50dfef34cac4976c66d523858a345a5d1fa4bc9834ca0\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 1033,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "password-section.tsx\": \"fe13a60a6985dbd7ba0f5e660020b97e23f0948234ed1d6a52c4cbe56dca04a1\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 1171,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "workflow-access-view.tsx\": \"52db5a48e1a6d930130b93bd1282480cf1fe90d6c994c8b6ecf7b0e40c14d24a\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 1214,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "report-denied-access-attempt.ts\": \"085a1202012de4489ad79682f532b5f1ac3d5712533a5c9895e70b41729b6368\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/meta.json",
+      "line": 1372,
+      "severity": "HIGH",
+      "rule_id": "generic-api-key",
+      "description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+      "evidence": "validate-chat-access.ts\": \"b0d03ab329d3f2cb289a042fd533b76084b16d1751543ea1d7c7cf955a06b97f\"",
+      "tool": "gitleaks"
+    },
+    {
+      "file": ".gitnexus/wiki/index.html",
+      "line": 101,
+      "severity": "WARNING",
+      "rule_id": "java.lang.security.audit.xss.jsf.autoescape-disabled.autoescape-disabled",
+      "description": "Detected an element with disabled HTML escaping. If external data can reach this, this is a cross-site scripting (XSS) vulnerability. Ensure no external data can reach here, or remove 'escape=false' from this element.",
+      "evidence": "requires login",
+      "tool": "semgrep"
+    },
+    {
+      "file": "app/(ee)/api/ai/store/teams/[teamId]/datarooms/[dataroomId]/route.ts",
+      "line": 227,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login",
+      "tool": "semgrep"
+    },
+    {
+      "file": "app/(ee)/api/scim/v2.0/[...directory]/route.ts",
+      "line": 313,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login",
+      "tool": "semgrep"
+    },
+    {
+      "file": "components/account/upload-avatar.tsx",
+      "line": 96,
+      "severity": "WARNING",
+      "rule_id": "typescript.react.security.audit.react-dangerouslysetinnerhtml.react-dangerouslysetinnerhtml",
+      "description": "Detection of dangerouslySetInnerHTML from non-constant definition. This can inadvertently expose users to cross-site scripting (XSS) attacks if this comes from user-provided input. If you have to use dangerouslySetInnerHTML, consider using a sanitization library such as DOMPurify to sanitize your HTML.",
+      "evidence": "requires login",
+      "tool": "semgrep"
+    },
+    {
+      "file": "components/ui/timestamp-tooltip.tsx",
+      "line": 210,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login",
+      "tool": "semgrep"
+    },
+    {
+      "file": "ee/features/conversations/components/dashboard/conversations-not-enabled-banner.tsx",
+      "line": 121,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login",
+      "tool": "semgrep"
+    },
+    {
+      "file": "ee/features/conversions/python/docx-sanitizer.py",
+      "line": 146,
+      "severity": "ERROR",
+      "rule_id": "python.lang.security.use-defused-xml-parse.use-defused-xml-parse",
+      "description": "The native Python `xml` library is vulnerable to XML External Entity (XXE) attacks.  These attacks can leak confidential data and \"XML bombs\" can cause denial of service. Do not use this library to parse untrusted input. Instead  the Python documentation recommends using `defusedxml`.",
+      "evidence": "requires login",
+      "tool": "semgrep"
+    },
+    {
+      "file": "ee/features/workflows/lib/engine.ts",
+      "line": 129,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login",
+      "tool": "semgrep"
+    },
+    {
+      "file": "ee/features/workflows/lib/engine.ts",
+      "line": 307,
+      "severity": "WARNING",
+      "rule_id": "javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp",
+      "description": "RegExp() called with a `condition` function argument, this might allow an attacker to cause a Regular Expression Denial-of-Service (ReDoS) within your application as RegExP blocks the main thread. For this reason, it is recommended to use hardcoded regexes instead. If your regex is run on user-controlled input, consider performing input validation or use a regex checking/sanitization library such as https://www.npmjs.com/package/recheck to verify that the regex does not appear vulnerable to ReDoS.",
+      "evidence": "requires login",
+      "tool": "semgrep"
+    },
+    {
+      "file": "lib/api/links/bulk-import.ts",
+      "line": 339,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login",
+      "tool": "semgrep"
+    },
+    {
+      "file": "lib/api/links/revalidate.ts",
+      "line": 23,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login",
+      "tool": "semgrep"
+    },
+    {
+      "file": "lib/api/links/revalidate.ts",
+      "line": 57,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login",
+      "tool": "semgrep"
+    },
+    {
+      "file": "lib/api/links/revalidate.ts",
+      "line": 63,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login",
+      "tool": "semgrep"
+    },
+    {
+      "file": "lib/integrations/slack/events.ts",
+      "line": 121,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login",
+      "tool": "semgrep"
+    },
+    {
+      "file": "lib/integrations/slack/utils.ts",
+      "line": 110,
+      "severity": "ERROR",
+      "rule_id": "javascript.node-crypto.security.gcm-no-tag-length.gcm-no-tag-length",
+      "description": "The call to 'createDecipheriv' with the Galois Counter Mode (GCM) mode of operation is missing an expected authentication tag length. If the expected authentication tag length is not specified or otherwise checked, the application might be tricked into verifying a shorter-than-expected authentication tag. This can be abused by an attacker to spoof ciphertexts or recover the implicit authentication key of GCM, allowing arbitrary forgeries.",
+      "evidence": "requires login",
+      "tool": "semgrep"
+    },
+    {
+      "file": "lib/redis/dataroom-notification-queue.ts",
+      "line": 104,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login",
+      "tool": "semgrep"
+    },
+    {
+      "file": "lib/utils/reliable-tracking.ts",
+      "line": 97,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login",
+      "tool": "semgrep"
+    },
+    {
+      "file": "lib/year-in-review/send-emails.ts",
+      "line": 78,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login",
+      "tool": "semgrep"
+    },
+    {
+      "file": "pages/api/auth/[...nextauth].ts",
+      "line": 171,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login",
+      "tool": "semgrep"
+    },
+    {
+      "file": "pages/api/file/tus-viewer/[[...file]].ts",
+      "line": 237,
+      "severity": "WARNING",
+      "rule_id": "javascript.express.security.cors-misconfiguration.cors-misconfiguration",
+      "description": "By letting user input control CORS parameters, there is a risk that software does not properly verify that the source of data or communication is valid. Use literal values for CORS settings.",
+      "evidence": "requires login",
+      "tool": "semgrep"
+    },
+    {
+      "file": "pages/api/teams/[teamId]/datarooms/[id]/apply-permissions.ts",
+      "line": 44,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login",
+      "tool": "semgrep"
+    },
+    {
+      "file": "pages/api/teams/[teamId]/datarooms/[id]/apply-permissions.ts",
+      "line": 50,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login",
+      "tool": "semgrep"
+    },
+    {
+      "file": "pages/api/teams/[teamId]/datarooms/[id]/permission-groups/[permissionGroupId].ts",
+      "line": 453,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login",
+      "tool": "semgrep"
+    },
+    {
+      "file": "pages/api/teams/[teamId]/datarooms/trial.ts",
+      "line": 159,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login",
+      "tool": "semgrep"
+    },
+    {
+      "file": "pages/api/teams/[teamId]/viewers/[id]/index.ts",
+      "line": 41,
+      "severity": "INFO",
+      "rule_id": "javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring",
+      "description": "Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.",
+      "evidence": "requires login",
+      "tool": "semgrep"
+    },
+    {
+      "file": "black",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-3936-cmfr-pm3m",
+      "description": "Black: Arbitrary file writes from unsanitized user input in cache file name",
+      "evidence": "black@25.12.0",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "cryptography",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-3ww4-gg4f-jr7f",
+      "description": "Python Cryptography package vulnerable to Bleichenbacher timing oracle attack",
+      "evidence": "cryptography@41.0.7",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "cryptography",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-537c-gmf6-5ccf",
+      "description": "Vulnerable OpenSSL included in cryptography wheels",
+      "evidence": "cryptography@41.0.7",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "cryptography",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-6vqw-3v5j-54x4",
+      "description": "cryptography NULL pointer dereference with pkcs12.serialize_key_and_certificates when called with a non-matching certificate and private key and an hmac_hash override",
+      "evidence": "cryptography@41.0.7",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "cryptography",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-9v9h-cgj8-h64p",
+      "description": "Null pointer dereference in PKCS12 parsing",
+      "evidence": "cryptography@41.0.7",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "cryptography",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-h4gh-qq45-vh27",
+      "description": "pyca/cryptography has a vulnerable OpenSSL included in cryptography wheels",
+      "evidence": "cryptography@41.0.7",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "cryptography",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-m959-cc7f-wv43",
+      "description": "cryptography has incomplete DNS name constraint enforcement on peer names",
+      "evidence": "cryptography@41.0.7",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "cryptography",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-r6ph-v2qm-q3c2",
+      "description": "cryptography Vulnerable to a Subgroup Attack Due to Missing Subgroup Validation for SECT Curves",
+      "evidence": "cryptography@41.0.7",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "cryptography",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "PYSEC-2024-225",
+      "description": "cryptography is a package designed to expose cryptographic primitives and recipes to Python developers. Starting in version 38.0.0 and prior to version 42.0.4, if `pkcs12.serialize_key_and_certificates` is called with both a certificate whose public key did not match the provided private key and an `encryption_algorithm` with `hmac_hash` set (via `PrivateFormat.PKCS12.encryption_builder().hmac_hash(...)`, then a NULL pointer dereference would occur, crashing the Python process. This has been resolved in version 42.0.4, the first version in which a `ValueError` is properly raised.",
+      "evidence": "cryptography@41.0.7",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "cryptography",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "PYSEC-2026-35",
+      "description": "cryptography is a package designed to expose cryptographic primitives and recipes to Python developers. Prior to version 46.0.6, DNS name constraints were only validated against SANs within child certificates, and not the \"peer name\" presented during each validation. Consequently, cryptography would allow a peer named bar.example.com to validate against a wildcard leaf certificate for *.example.com, even if the leaf's parent certificate (or upwards) contained an excluded subtree constraint for bar.example.com. This issue has been patched in version 46.0.6.",
+      "evidence": "cryptography@41.0.7",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "gitpython",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-7545-fcxq-7j24",
+      "description": "GitPython reference APIs has a path traversal vulnerability that allows arbitrary file write and delete outside the repository",
+      "evidence": "gitpython@3.1.45",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "gitpython",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-mv93-w799-cj2w",
+      "description": "GitPython: Newline injection in config_writer() section parameter bypasses CVE-2026-42215 patch, enabling RCE via core.hooksPath",
+      "evidence": "gitpython@3.1.45",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "gitpython",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-rpm5-65cw-6hj4",
+      "description": "GitPython has Command Injection via Git options bypass",
+      "evidence": "gitpython@3.1.45",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "gitpython",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-v87r-6q3f-2j67",
+      "description": "GitPython: Newline injection in config_writer().set_value() enables RCE via core.hooksPath",
+      "evidence": "gitpython@3.1.45",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "gitpython",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-x2qx-6953-8485",
+      "description": "GitPython: Unsafe option check validates multi_options before shlex.split transformation",
+      "evidence": "gitpython@3.1.45",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "idna",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-65pc-fj4g-8rjx",
+      "description": "Internationalized Domain Names in Applications (IDNA): Specially crafted inputs to idna.encode() can bypass CVE-2024-3651 fix",
+      "evidence": "idna@3.11",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "idna",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "PYSEC-2026-215",
+      "description": "Internationalized Domain Names in Applications (IDNA) for Python provides support for Internationalized Domain Names in Applications (IDNA) and Unicode IDNA Compatibility Processing. In versions prior to 3.15, payloads such as `\"\\u0660\" * N` or `\"\\u30fb\" * N + \"\\u6f22\"` utilize the `valid_contexto` function prior to length rejection, and for high values of `N` will take a long time to process. This is the same issue as CVE-2024-3651, however the original remediation in 2024 was not a complete fix. A specially crafted argument to the `idna.encode()` function could consume significant resources. This may lead to a denial-of-service. Starting in version 3.14, the function rejects long inputs as soon as practicable prior to any further processing to minimize resource consumption. In version 3.15, this approach was extended to lesser used alternate functions (i.e. per-label conversions and codec support). A workaround is available. Domain names cannot exceed 253 characters in length. If this length limit is enforced prior to passing the domain to the `idna.encode()` function, it should no longer consume significant resources. This is triggered by arbitrarily large inputs that would not occur in normal usage, but may be passed to the library assuming there is no preliminary input validation by the higher-level application.",
+      "evidence": "idna@3.11",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "requests",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-gc5v-m9x4-r6x2",
+      "description": "Requests has Insecure Temp File Reuse in its extract_zipped_paths() utility function",
+      "evidence": "requests@2.32.5",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "tornado",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-3x9g-8vmp-wqvf",
+      "description": "Tornado: Authorization header forwarded across cross-origin redirects in SimpleAsyncHTTPClient",
+      "evidence": "tornado@6.0.4",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "tornado",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-753j-mpmx-qq6g",
+      "description": "Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling') in tornado",
+      "evidence": "tornado@6.0.4",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "tornado",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-78cv-mqj4-43f7",
+      "description": "Tornado has incomplete validation of cookie attributes",
+      "evidence": "tornado@6.0.4",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "tornado",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-7cx3-6m66-7c5m",
+      "description": "Tornado vulnerable to excessive logging caused by malformed multipart form data",
+      "evidence": "tornado@6.0.4",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "tornado",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-8w49-h785-mj3c",
+      "description": "Tornado has an HTTP cookie parsing DoS vulnerability",
+      "evidence": "tornado@6.0.4",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "tornado",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-cx3h-4qpv-8hc9",
+      "description": "Tornado has out-of-bounds memory access via C extension",
+      "evidence": "tornado@6.0.4",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "tornado",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-fqwm-6jpj-5wxc",
+      "description": "Tornado has cookie attribute injection via .RequestHandler.set_cookie",
+      "evidence": "tornado@6.0.4",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "tornado",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-hj3f-6gcp-jg8j",
+      "description": "Open redirect in Tornado",
+      "evidence": "tornado@6.0.4",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "tornado",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-mgf9-4vpg-hj56",
+      "description": "tornado AsyncHTTPClient accumulates decompressed chunks without size limit (gzip bomb)",
+      "evidence": "tornado@6.0.4",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "tornado",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-pw6j-qg29-8w7f",
+      "description": "Tornado: CurlAsyncHTTPClient leaks per-request credentials on handle reuse",
+      "evidence": "tornado@6.0.4",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "tornado",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-qjxf-f2mg-c6mc",
+      "description": "Tornado is vulnerable to DoS due to too many multipart parts",
+      "evidence": "tornado@6.0.4",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "tornado",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-qppv-j76h-2rpx",
+      "description": "Tornado vulnerable to HTTP request smuggling via improper parsing of `Content-Length` fields and chunk lengths",
+      "evidence": "tornado@6.0.4",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "tornado",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-w235-7p84-xx57",
+      "description": "Tornado has a CRLF injection in CurlAsyncHTTPClient headers",
+      "evidence": "tornado@6.0.4",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "tornado",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "PYSEC-2023-75",
+      "description": "Open redirect vulnerability in Tornado versions 6.3.1 and earlier allows a remote unauthenticated attacker to redirect a user to an arbitrary web site and conduct a phishing attack by having user access a specially crafted URL.",
+      "evidence": "tornado@6.0.4",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "tornado",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "PYSEC-2026-140",
+      "description": "Tornado is a Python web framework and asynchronous networking library. In versions of Tornado prior to 6.5.5, the only limit on the number of parts in multipart/form-data is the max_body_size setting (default 100MB). Since parsing occurs synchronously on the main thread, this creates the possibility of denial-of-service due to the cost of parsing very large multipart bodies with many parts. This vulnerability is fixed in 6.5.5.",
+      "evidence": "tornado@6.0.4",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "urllib3",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-2xpw-w6gg-jr37",
+      "description": "urllib3 streaming API improperly handles highly compressed data",
+      "evidence": "urllib3@1.26.20",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "urllib3",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-38jv-5279-wg99",
+      "description": "Decompression-bomb safeguards bypassed when following HTTP redirects (streaming API)",
+      "evidence": "urllib3@1.26.20",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "urllib3",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-gm62-xv2j-4w53",
+      "description": "urllib3 allows an unbounded number of links in the decompression chain",
+      "evidence": "urllib3@1.26.20",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "urllib3",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-pq67-6m6q-mj2v",
+      "description": "urllib3 redirects are not disabled when retries are disabled on PoolManager instantiation",
+      "evidence": "urllib3@1.26.20",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "urllib3",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-qccp-gfcp-xxvc",
+      "description": "urllib3: Sensitive headers forwarded across origins in proxied low-level redirects",
+      "evidence": "urllib3@1.26.20",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "urllib3",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "PYSEC-2026-141",
+      "description": "urllib3 is an HTTP client library for Python. From 1.23 to before 2.7.0, cross-origin redirects followed from the low-level API via ProxyManager.connection_from_url().urlopen(..., assert_same_host=False) still forward these sensitive headers. This vulnerability is fixed in 2.7.0.",
+      "evidence": "urllib3@1.26.20",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "wheel",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-8rrh-rw8j-w5fx",
+      "description": "Wheel Affected by Arbitrary File Permission Modification via Path Traversal in wheel unpack",
+      "evidence": "wheel@0.45.1",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "@grpc/grpc-js",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-5375-pq7m-f5r2",
+      "description": "@grpc/grpc-js: A malformed request can cause a server crash",
+      "evidence": "@grpc/grpc-js@1.14.3",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "@grpc/grpc-js",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-99f4-grh7-6pcq",
+      "description": "@grpc/grpc-js: An incoming malformed compressed message can cause a client or server crash",
+      "evidence": "@grpc/grpc-js@1.14.3",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "@opentelemetry/core",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-8988-4f7v-96qf",
+      "description": "OpenTelemetry Core: Unbounded memory allocation in W3C Baggage propagation",
+      "evidence": "@opentelemetry/core@2.0.1",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "@opentelemetry/core",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-8988-4f7v-96qf",
+      "description": "OpenTelemetry Core: Unbounded memory allocation in W3C Baggage propagation",
+      "evidence": "@opentelemetry/core@2.2.0",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "@opentelemetry/core",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-8988-4f7v-96qf",
+      "description": "OpenTelemetry Core: Unbounded memory allocation in W3C Baggage propagation",
+      "evidence": "@opentelemetry/core@2.5.1",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "cookie",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-pxg6-pf52-xh8x",
+      "description": "cookie accepts cookie name, path, and domain with out of bounds characters",
+      "evidence": "cookie@0.4.2",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "dompurify",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-76mc-f452-cxcm",
+      "description": "DOMPurify: Hook mutation of `data.allowedTags` / `data.allowedAttributes` permanently pollutes `DEFAULT_ALLOWED_TAGS` / `DEFAULT_ALLOWED_ATTR`",
+      "evidence": "dompurify@3.4.0",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "dompurify",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-cmwh-pvxp-8882",
+      "description": "DOMPurify: Permanent `ALLOWED_ATTR` pollution via `setConfig()` bypassing the hook clone-guard (incomplete fix of the 3.4.7 hook-pollution patch)",
+      "evidence": "dompurify@3.4.0",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "dompurify",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-gvmj-g25r-r7wr",
+      "description": "DOMPurify: SAFE_FOR_TEMPLATES bypass - template expressions survive sanitization inside <template> content when using DOM output modes",
+      "evidence": "dompurify@3.4.0",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "dompurify",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-hpcv-96wg-7vj8",
+      "description": "DOMPurify: Cross-realm IN_PLACE sanitization leaves executable markup intact via realm-bound `instanceof` checks",
+      "evidence": "dompurify@3.4.0",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "dompurify",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-r47g-fvhr-h676",
+      "description": "DOMPurify: IN_PLACE mode preserves attributes of a clobbered root element, allowing XSS via attacker-controlled root DOM",
+      "evidence": "dompurify@3.4.0",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "dompurify",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-rp9w-3fw7-7cwq",
+      "description": "DOMPurify IN_PLACE Sanitization Bypass via Attached Shadow Root Inside <template>.content",
+      "evidence": "dompurify@3.4.0",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "dompurify",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-vxr8-fq34-vvx9",
+      "description": "DOMPurify: Trusted Types policy survives `clearConfig()` and can poison later `RETURN_TRUSTED_TYPE` output",
+      "evidence": "dompurify@3.4.0",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "dompurify",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-x4vx-rjvf-j5p4",
+      "description": "DOMPurify: `IN_PLACE` mode trusts attacker-controlled `nodeName` on live non-form nodes, allowing script retention and XSS via attacker-supplied DOM objects",
+      "evidence": "dompurify@3.4.0",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "esbuild",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-g7r4-m6w7-qqqr",
+      "description": "esbuild allows arbitrary file read when running the development server on Windows",
+      "evidence": "esbuild@0.28.0",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "form-data",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-hmw2-7cc7-3qxx",
+      "description": "form-data: CRLF injection in form-data via unescaped multipart field names and filenames",
+      "evidence": "form-data@4.0.5",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "glob",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-5j98-mcp5-4vw2",
+      "description": "glob CLI: Command injection via -c/--cmd executes matches with shell:true",
+      "evidence": "glob@10.3.10",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "hono",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-2gcr-mfcq-wcc3",
+      "description": "Hono: app.mount() strips mount prefix using undecoded path, causing incorrect routing for percent-encoded paths",
+      "evidence": "hono@4.12.18",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "hono",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-3hrh-pfw6-9m5x",
+      "description": "Hono: Cookie helper does not sanitize sameSite and priority, allowing Set-Cookie injection",
+      "evidence": "hono@4.12.18",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "hono",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-88fw-hqm2-52qc",
+      "description": "hono: CORS Middleware reflects any Origin with credentials when `origin` defaults to the wildcard",
+      "evidence": "hono@4.12.18",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "hono",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-f577-qrjj-4474",
+      "description": "Hono: JWT middleware accepts any Authorization scheme, not only Bearer",
+      "evidence": "hono@4.12.18",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "hono",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-j6c9-x7qj-28xf",
+      "description": "hono: AWS Lambda adapter merges multiple `Set-Cookie` headers into one value, dropping cookies on ALB single-header and Lattice",
+      "evidence": "hono@4.12.18",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "hono",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-rv63-4mwf-qqc2",
+      "description": "hono: Body Limit Middleware can be bypassed on AWS Lambda by understating `Content-Length`",
+      "evidence": "hono@4.12.18",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "hono",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-wgpf-jwqj-8h8p",
+      "description": "hono: Lambda@Edge adapter keeps only the last value of a repeated request header, dropping the rest",
+      "evidence": "hono@4.12.18",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "hono",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-wwfh-h76j-fc44",
+      "description": "hono: Path traversal in `serve-static` on Windows via encoded backslash (`%5C`)",
+      "evidence": "hono@4.12.18",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "hono",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-xrhx-7g5j-rcj5",
+      "description": "Hono: IP Restriction bypasses static deny rules for non-canonical IPv6 ",
+      "evidence": "hono@4.12.18",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "js-yaml",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-h67p-54hq-rp68",
+      "description": "JS-YAML: Quadratic-complexity DoS in merge key handling via repeated aliases",
+      "evidence": "js-yaml@4.1.1",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "next",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-36qx-fr4f-26g5",
+      "description": "Next.js has a Middleware / Proxy bypass in Pages Router applications using i18n",
+      "evidence": "next@14.2.35",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "next",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-3g8h-86w9-wvmq",
+      "description": "Next.js's Middleware / Proxy redirects can be cache-poisoned",
+      "evidence": "next@14.2.35",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "next",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-3x4c-7xq6-9pq8",
+      "description": "Next.js: Unbounded next/image disk cache growth can exhaust storage",
+      "evidence": "next@14.2.35",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "next",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-8h8q-6873-q5fj",
+      "description": "Next.js Vulnerable to Denial of Service with Server Components",
+      "evidence": "next@14.2.35",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "next",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-9g9p-9gw9-jx7f",
+      "description": "Next.js self-hosted applications vulnerable to DoS via Image Optimizer remotePatterns configuration",
+      "evidence": "next@14.2.35",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "next",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-c4j6-fc7j-m34r",
+      "description": "Next.js vulnerable to server-side request forgery in applications using WebSocket upgrades",
+      "evidence": "next@14.2.35",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "next",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-ffhc-5mcf-pf4q",
+      "description": "Next.js vulnerable to cross-site scripting in App Router applications using CSP nonces",
+      "evidence": "next@14.2.35",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "next",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-ggv3-7p47-pfv8",
+      "description": "Next.js: HTTP request smuggling in rewrites",
+      "evidence": "next@14.2.35",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "next",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-gx5p-jg67-6x7h",
+      "description": "Next.js has cross-site scripting in beforeInteractive scripts with untrusted input",
+      "evidence": "next@14.2.35",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "next",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-h25m-26qc-wcjf",
+      "description": "Next.js HTTP request deserialization can lead to DoS when using insecure React Server Components",
+      "evidence": "next@14.2.35",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "next",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-h64f-5h5j-jqjh",
+      "description": "Next.js has a Denial of Service in the Image Optimization API",
+      "evidence": "next@14.2.35",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "next",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-q4gf-8mx6-v5v3",
+      "description": "Next.js has a Denial of Service with Server Components",
+      "evidence": "next@14.2.35",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "next",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-vfv6-92ff-j949",
+      "description": "Next.js vulnerable to cache poisoning via collisions in React Server Component cache-busting",
+      "evidence": "next@14.2.35",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "next",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-wfc6-r584-vfw7",
+      "description": "Next.js vulnerable to cache poisoning in React Server Component responses",
+      "evidence": "next@14.2.35",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "nodemailer",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-268h-hp4c-crq3",
+      "description": "Nodemailer: CRLF injection in Nodemailer List-* header comments allows arbitrary message header injection",
+      "evidence": "nodemailer@7.0.13",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "nodemailer",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-c7w3-x93f-qmm8",
+      "description": "Nodemailer has SMTP command injection due to unsanitized `envelope.size` parameter",
+      "evidence": "nodemailer@7.0.13",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "nodemailer",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-p6gq-j5cr-w38f",
+      "description": "Nodemailer: Message-level raw option bypasses disableFileAccess/disableUrlAccess, enabling arbitrary file read and full-response SSRF in the delivered message",
+      "evidence": "nodemailer@7.0.13",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "nodemailer",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-r7g4-qg5f-qqm2",
+      "description": "Nodemailer: Improper TLS Certificate Validation in OAuth2 Token Fetch Enables Credential Interception",
+      "evidence": "nodemailer@7.0.13",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "nodemailer",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-vvjj-xcjg-gr5g",
+      "description": "Nodemailer Vulnerable to SMTP Command Injection via CRLF in Transport name Option (EHLO/HELO) ",
+      "evidence": "nodemailer@7.0.13",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "nodemailer",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-wqvq-jvpq-h66f",
+      "description": "Nodemailer jsonTransport bypasses disableFileAccess and disableUrlAccess during message normalization",
+      "evidence": "nodemailer@7.0.13",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "pdfjs-dist",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-wgrm-67xf-hhpq",
+      "description": "PDF.js vulnerable to arbitrary JavaScript execution upon opening a malicious PDF",
+      "evidence": "pdfjs-dist@3.11.174",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "postcss",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-qx2v-qp2m-jg93",
+      "description": "PostCSS has XSS via Unescaped </style> in its CSS Stringify Output",
+      "evidence": "postcss@8.4.31",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "protobufjs",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-f38q-mgvj-vph7",
+      "description": "protobufjs : Schema-derived names can shadow runtime-significant properties",
+      "evidence": "protobufjs@7.5.8",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "protobufjs",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-wcpc-wj8m-hjx6",
+      "description": "protobufjs: Denial of service through unbounded Any expansion during JSON conversion",
+      "evidence": "protobufjs@7.5.8",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "protobufjs",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-f38q-mgvj-vph7",
+      "description": "protobufjs : Schema-derived names can shadow runtime-significant properties",
+      "evidence": "protobufjs@8.0.3",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "protobufjs",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-jggg-4jg4-v7c6",
+      "description": "protobufjs: Denial of Service via unbounded recursive JSON descriptor expansion",
+      "evidence": "protobufjs@8.0.3",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "protobufjs",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-wcpc-wj8m-hjx6",
+      "description": "protobufjs: Denial of service through unbounded Any expansion during JSON conversion",
+      "evidence": "protobufjs@8.0.3",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "systeminformation",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-5vv4-hvf7-2h46",
+      "description": "Command Injection via Unsanitized `locate` Output in `versions()` — systeminformation",
+      "evidence": "systeminformation@5.23.8",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "systeminformation",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-9c88-49p5-5ggf",
+      "description": "Systeminformation has a Command Injection via unsanitized interface parameter in wifi.js retry path",
+      "evidence": "systeminformation@5.23.8",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "systeminformation",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-hvx9-hwr7-wjj9",
+      "description": "Systeminformation vulnerable to Linux command injection in networkInterfaces() via unsanitized NetworkManager connection profile name",
+      "evidence": "systeminformation@5.23.8",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "systeminformation",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-wphj-fx3q-84ch",
+      "description": "systeminformation has a Command Injection vulnerability in fsSize() function on Windows",
+      "evidence": "systeminformation@5.23.8",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "tar",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-9ppj-qmqm-q256",
+      "description": "node-tar Symlink Path Traversal via Drive-Relative Linkpath",
+      "evidence": "tar@7.5.10",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "tar",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-vmf3-w455-68vh",
+      "description": "node-tar applies PAX size override to intermediary GNU long-name/long-link headers, causing tar parser interpretation differential (file smuggling)",
+      "evidence": "tar@7.5.10",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "tmp",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-ph9p-34f9-6g65",
+      "description": "tmp has Path Traversal via unsanitized prefix/postfix that enables directory escape",
+      "evidence": "tmp@0.2.5",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "typeorm",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-9ggv-8w38-r7pm",
+      "description": "TypeORM: SQL Injection in UpdateQueryBuilder/SoftDeleteQueryBuilder orderBy (MySQL/MariaDB)",
+      "evidence": "typeorm@0.3.28",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "underscore",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-qpx9-hpmf-5gmw",
+      "description": "Underscore has unlimited recursion in _.flatten and _.isEqual, potential for DoS attack",
+      "evidence": "underscore@1.13.6",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "undici",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-35p6-xmwp-9g52",
+      "description": "undici vulnerable to HTTP response queue poisoning via keep-alive socket reuse",
+      "evidence": "undici@6.25.0",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "undici",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-g8m3-5g58-fq7m",
+      "description": "undici vulnerable to Set-Cookie SameSite attribute downgrade via permissive substring matching",
+      "evidence": "undici@6.25.0",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "undici",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-p88m-4jfj-68fv",
+      "description": "undici vulnerable to HTTP header injection via Set-Cookie percent-decoding",
+      "evidence": "undici@6.25.0",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "undici",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-vxpw-j846-p89q",
+      "description": "undici WebSocket client vulnerable to denial of service via fragment count bypass",
+      "evidence": "undici@6.25.0",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "uuid",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-w5hq-g745-h8pq",
+      "description": "uuid: Missing buffer bounds check in v3/v5/v6 when buf is provided",
+      "evidence": "uuid@8.3.2",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "ws",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-58qx-3vcg-4xpx",
+      "description": "ws: Uninitialized memory disclosure",
+      "evidence": "ws@8.17.1",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "ws",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-96hv-2xvq-fx4p",
+      "description": "ws: Memory exhaustion DoS from tiny fragments and data chunks",
+      "evidence": "ws@8.17.1",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "ws",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-96hv-2xvq-fx4p",
+      "description": "ws: Memory exhaustion DoS from tiny fragments and data chunks",
+      "evidence": "ws@8.20.1",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "xlsx",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-4r6h-8v6p-xvw6",
+      "description": "Prototype Pollution in sheetJS",
+      "evidence": "xlsx@0.20.3",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "xlsx",
+      "line": 0,
+      "severity": "MEDIUM",
+      "rule_id": "GHSA-5pgg-2g8v-p4x9",
+      "description": "SheetJS Regular Expression Denial of Service (ReDoS)",
+      "evidence": "xlsx@0.20.3",
+      "tool": "osv-scanner"
+    },
+    {
+      "file": "@boxyhq/metrics",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "npm-audit",
+      "description": "@grpc/grpc-js; @opentelemetry/exporter-metrics-otlp-grpc; @opentelemetry/exporter-metrics-otlp-http; @opentelemetry/resources; @opentelemetry/sdk-metrics",
+      "evidence": "@boxyhq/metrics",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "@boxyhq/saml-jackson",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "npm-audit",
+      "description": "@boxyhq/metrics; typeorm",
+      "evidence": "@boxyhq/saml-jackson",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "@grpc/grpc-js",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "npm-audit",
+      "description": "@grpc/grpc-js: A malformed request can cause a server crash; @grpc/grpc-js: An incoming malformed compressed message can cause a client or server crash",
+      "evidence": "@grpc/grpc-js",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "@mapbox/node-pre-gyp",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "npm-audit",
+      "description": "tar",
+      "evidence": "@mapbox/node-pre-gyp",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "@next/eslint-plugin-next",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "npm-audit",
+      "description": "glob",
+      "evidence": "@next/eslint-plugin-next",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "@opentelemetry/core",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "OpenTelemetry Core: Unbounded memory allocation in W3C Baggage propagation",
+      "evidence": "@opentelemetry/core",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "@opentelemetry/exporter-logs-otlp-http",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "@opentelemetry/core; @opentelemetry/otlp-exporter-base; @opentelemetry/otlp-transformer; @opentelemetry/sdk-logs",
+      "evidence": "@opentelemetry/exporter-logs-otlp-http",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "@opentelemetry/exporter-metrics-otlp-grpc",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "@opentelemetry/core; @opentelemetry/exporter-metrics-otlp-http; @opentelemetry/otlp-exporter-base; @opentelemetry/otlp-grpc-exporter-base; @opentelemetry/otlp-transformer; @opentelemetry/resources; @opentelemetry/sdk-metrics",
+      "evidence": "@opentelemetry/exporter-metrics-otlp-grpc",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "@opentelemetry/exporter-metrics-otlp-http",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "@opentelemetry/core; @opentelemetry/otlp-exporter-base; @opentelemetry/otlp-transformer; @opentelemetry/resources; @opentelemetry/sdk-metrics",
+      "evidence": "@opentelemetry/exporter-metrics-otlp-http",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "@opentelemetry/exporter-trace-otlp-http",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "@opentelemetry/core; @opentelemetry/otlp-exporter-base; @opentelemetry/otlp-transformer; @opentelemetry/resources; @opentelemetry/sdk-trace-base",
+      "evidence": "@opentelemetry/exporter-trace-otlp-http",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "@opentelemetry/host-metrics",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "npm-audit",
+      "description": "systeminformation",
+      "evidence": "@opentelemetry/host-metrics",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "@opentelemetry/otlp-exporter-base",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "@opentelemetry/core; @opentelemetry/otlp-transformer",
+      "evidence": "@opentelemetry/otlp-exporter-base",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "@opentelemetry/otlp-grpc-exporter-base",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "@opentelemetry/core; @opentelemetry/otlp-exporter-base; @opentelemetry/otlp-transformer",
+      "evidence": "@opentelemetry/otlp-grpc-exporter-base",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "@opentelemetry/otlp-transformer",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "@opentelemetry/core; @opentelemetry/resources; @opentelemetry/sdk-logs; @opentelemetry/sdk-metrics; @opentelemetry/sdk-trace-base; protobufjs",
+      "evidence": "@opentelemetry/otlp-transformer",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "@opentelemetry/resources",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "@opentelemetry/core",
+      "evidence": "@opentelemetry/resources",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "@opentelemetry/sdk-logs",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "@opentelemetry/core; @opentelemetry/resources",
+      "evidence": "@opentelemetry/sdk-logs",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "@opentelemetry/sdk-metrics",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "@opentelemetry/core; @opentelemetry/resources",
+      "evidence": "@opentelemetry/sdk-metrics",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "@opentelemetry/sdk-trace-base",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "@opentelemetry/core; @opentelemetry/resources",
+      "evidence": "@opentelemetry/sdk-trace-base",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "@opentelemetry/sdk-trace-node",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "@opentelemetry/core; @opentelemetry/sdk-trace-base",
+      "evidence": "@opentelemetry/sdk-trace-node",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "@react-email/ui",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "esbuild; next",
+      "evidence": "@react-email/ui",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "@teamhanko/passkeys-next-auth-provider",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "next-auth",
+      "evidence": "@teamhanko/passkeys-next-auth-provider",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "@trigger.dev/build",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "@trigger.dev/core",
+      "evidence": "@trigger.dev/build",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "@trigger.dev/core",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "npm-audit",
+      "description": "@opentelemetry/core; @opentelemetry/exporter-logs-otlp-http; @opentelemetry/exporter-metrics-otlp-http; @opentelemetry/exporter-trace-otlp-http; @opentelemetry/host-metrics; @opentelemetry/resources; @opentelemetry/sdk-logs; @opentelemetry/sdk-metrics; @opentelemetry/sdk-trace-base; @opentelemetry/sdk-trace-node; socket.io; socket.io-client",
+      "evidence": "@trigger.dev/core",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "@trigger.dev/python",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "@trigger.dev/build; @trigger.dev/core; @trigger.dev/sdk",
+      "evidence": "@trigger.dev/python",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "@trigger.dev/react-hooks",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "@trigger.dev/core",
+      "evidence": "@trigger.dev/react-hooks",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "@trigger.dev/sdk",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "@trigger.dev/core",
+      "evidence": "@trigger.dev/sdk",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "canvas",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "npm-audit",
+      "description": "@mapbox/node-pre-gyp",
+      "evidence": "canvas",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "cookie",
+      "line": 0,
+      "severity": "LOW",
+      "rule_id": "npm-audit",
+      "description": "cookie accepts cookie name, path, and domain with out of bounds characters",
+      "evidence": "cookie",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "dompurify",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "DOMPurify: `IN_PLACE` mode trusts attacker-controlled `nodeName` on live non-form nodes, allowing script retention and XSS via attacker-supplied DOM objects; DOMPurify: Hook mutation of `data.allowedTags` / `data.allowedAttributes` permanently pollutes `DEFAULT_ALLOWED_TAGS` / `DEFAULT_ALLOWED_ATTR`; DOMPurify: Cross-realm IN_PLACE sanitization leaves executable markup intact via realm-bound `instanceof` checks; DOMPurify: IN_PLACE mode preserves attributes of a clobbered root element, allowing XSS via attacker-controlled root DOM; DOMPurify: Trusted Types policy survives `clearConfig()` and can poison later `RETURN_TRUSTED_TYPE` output; DOMPurify: SAFE_FOR_TEMPLATES bypass - template expressions survive sanitization inside <template> content when using DOM output modes; DOMPurify IN_PLACE Sanitization Bypass via Attached Shadow Root Inside <template>.content; DOMPurify: Permanent `ALLOWED_ATTR` pollution via `setConfig()` bypassing the hook clone-guard (incomplete fix of the 3.4.7 hook-pollution patch)",
+      "evidence": "dompurify",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "dub",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "npm-audit",
+      "description": "jsonpath",
+      "evidence": "dub",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "engine.io",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "npm-audit",
+      "description": "cookie; ws; ws",
+      "evidence": "engine.io",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "engine.io-client",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "ws",
+      "evidence": "engine.io-client",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "esbuild",
+      "line": 0,
+      "severity": "LOW",
+      "rule_id": "npm-audit",
+      "description": "esbuild allows arbitrary file read when running the development server on Windows",
+      "evidence": "esbuild",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "eslint-config-next",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "npm-audit",
+      "description": "@next/eslint-plugin-next",
+      "evidence": "eslint-config-next",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "exceljs",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "uuid",
+      "evidence": "exceljs",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "form-data",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "npm-audit",
+      "description": "form-data: CRLF injection in form-data via unescaped multipart field names and filenames",
+      "evidence": "form-data",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "glob",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "npm-audit",
+      "description": "glob CLI: Command injection via -c/--cmd executes matches with shell:true",
+      "evidence": "glob",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "hono",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "npm-audit",
+      "description": "Hono: IP Restriction bypasses static deny rules for non-canonical IPv6 ; Hono: Cookie helper does not sanitize sameSite and priority, allowing Set-Cookie injection; Hono: JWT middleware accepts any Authorization scheme, not only Bearer; Hono: app.mount() strips mount prefix using undecoded path, causing incorrect routing for percent-encoded paths; hono: Path traversal in `serve-static` on Windows via encoded backslash (`%5C`); hono: AWS Lambda adapter merges multiple `Set-Cookie` headers into one value, dropping cookies on ALB single-header and Lattice; hono: CORS Middleware reflects any Origin with credentials when `origin` defaults to the wildcard; hono: Body Limit Middleware can be bypassed on AWS Lambda by understating `Content-Length`; hono: Lambda@Edge adapter keeps only the last value of a repeated request header, dropping the rest",
+      "evidence": "hono",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "js-yaml",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "JS-YAML: Quadratic-complexity DoS in merge key handling via repeated aliases",
+      "evidence": "js-yaml",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "jsonpath",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "npm-audit",
+      "description": "underscore",
+      "evidence": "jsonpath",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "next",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "npm-audit",
+      "description": "Next.js self-hosted applications vulnerable to DoS via Image Optimizer remotePatterns configuration; Next.js HTTP request deserialization can lead to DoS when using insecure React Server Components; Next.js: HTTP request smuggling in rewrites; Next.js: Unbounded next/image disk cache growth can exhaust storage; Next.js has a Denial of Service with Server Components; Next.js Vulnerable to Denial of Service with Server Components; Next.js's Middleware / Proxy redirects can be cache-poisoned; Next.js vulnerable to cross-site scripting in App Router applications using CSP nonces; Next.js vulnerable to cache poisoning via collisions in React Server Component cache-busting; Next.js has cross-site scripting in beforeInteractive scripts with untrusted input; Next.js has a Denial of Service in the Image Optimization API; Next.js vulnerable to server-side request forgery in applications using WebSocket upgrades; Next.js vulnerable to cache poisoning in React Server Component responses; Next.js has a Middleware / Proxy bypass in Pages Router applications using i18n; postcss",
+      "evidence": "next",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "next-auth",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "nodemailer; uuid",
+      "evidence": "next-auth",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "nodemailer",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "npm-audit",
+      "description": "Nodemailer has SMTP command injection due to unsanitized `envelope.size` parameter; Nodemailer Vulnerable to SMTP Command Injection via CRLF in Transport name Option (EHLO/HELO) ; Nodemailer: CRLF injection in Nodemailer List-* header comments allows arbitrary message header injection; Nodemailer jsonTransport bypasses disableFileAccess and disableUrlAccess during message normalization; Nodemailer: Improper TLS Certificate Validation in OAuth2 Token Fetch Enables Credential Interception; Nodemailer: Message-level raw option bypasses disableFileAccess/disableUrlAccess, enabling arbitrary file read and full-response SSRF in the delivered message",
+      "evidence": "nodemailer",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "pdfjs-dist",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "npm-audit",
+      "description": "PDF.js vulnerable to arbitrary JavaScript execution upon opening a malicious PDF; canvas",
+      "evidence": "pdfjs-dist",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "postcss",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "PostCSS has XSS via Unescaped </style> in its CSS Stringify Output",
+      "evidence": "postcss",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "posthog-js",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "@opentelemetry/exporter-logs-otlp-http; @opentelemetry/sdk-logs",
+      "evidence": "posthog-js",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "protobufjs",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "npm-audit",
+      "description": "protobufjs: Denial of Service via unbounded recursive JSON descriptor expansion; protobufjs : Schema-derived names can shadow runtime-significant properties; protobufjs : Schema-derived names can shadow runtime-significant properties; protobufjs: Denial of service through unbounded Any expansion during JSON conversion; protobufjs: Denial of service through unbounded Any expansion during JSON conversion",
+      "evidence": "protobufjs",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "react-pdf",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "npm-audit",
+      "description": "pdfjs-dist",
+      "evidence": "react-pdf",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "socket.io",
+      "line": 0,
+      "severity": "LOW",
+      "rule_id": "npm-audit",
+      "description": "engine.io",
+      "evidence": "socket.io",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "socket.io-adapter",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "npm-audit",
+      "description": "ws",
+      "evidence": "socket.io-adapter",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "socket.io-client",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "engine.io-client",
+      "evidence": "socket.io-client",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "systeminformation",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "npm-audit",
+      "description": "systeminformation has a Command Injection vulnerability in fsSize() function on Windows; Command Injection via Unsanitized `locate` Output in `versions()` — systeminformation; Systeminformation has a Command Injection via unsanitized interface parameter in wifi.js retry path; Systeminformation vulnerable to Linux command injection in networkInterfaces() via unsanitized NetworkManager connection profile name",
+      "evidence": "systeminformation",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "tar",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "npm-audit",
+      "description": "node-tar Symlink Path Traversal via Drive-Relative Linkpath; node-tar applies PAX size override to intermediary GNU long-name/long-link headers, causing tar parser interpretation differential (file smuggling)",
+      "evidence": "tar",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "tmp",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "npm-audit",
+      "description": "tmp has Path Traversal via unsanitized prefix/postfix that enables directory escape",
+      "evidence": "tmp",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "typeorm",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "TypeORM: SQL Injection in UpdateQueryBuilder/SoftDeleteQueryBuilder orderBy (MySQL/MariaDB)",
+      "evidence": "typeorm",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "underscore",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "npm-audit",
+      "description": "Underscore has unlimited recursion in _.flatten and _.isEqual, potential for DoS attack",
+      "evidence": "underscore",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "undici",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "npm-audit",
+      "description": "undici vulnerable to HTTP header injection via Set-Cookie percent-decoding; undici WebSocket client vulnerable to denial of service via fragment count bypass; undici vulnerable to HTTP response queue poisoning via keep-alive socket reuse; undici vulnerable to Set-Cookie SameSite attribute downgrade via permissive substring matching",
+      "evidence": "undici",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "uuid",
+      "line": 0,
+      "severity": "MODERATE",
+      "rule_id": "npm-audit",
+      "description": "uuid: Missing buffer bounds check in v3/v5/v6 when buf is provided",
+      "evidence": "uuid",
+      "tool": "npm-audit"
+    },
+    {
+      "file": "ws",
+      "line": 0,
+      "severity": "HIGH",
+      "rule_id": "npm-audit",
+      "description": "ws: Uninitialized memory disclosure; ws: Memory exhaustion DoS from tiny fragments and data chunks",
+      "evidence": "ws",
+      "tool": "npm-audit"
+    }
+  ],
+  "by_tool": {
+    "gitleaks": 29,
+    "npm-audit": 59,
+    "osv-scanner": 113,
+    "semgrep": 25
+  },
+  "total_findings": 226,
+  "summary": {
+    "total_findings": 226
+  }
+}
