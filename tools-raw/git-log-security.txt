@@ -1,0 +1,22 @@
+9168d3e3 Add AI analysis: ai-analyze-secrets
+76eb81a7 Add AI analysis: ai-analyze-secrets
+2a4a7c45 Add synthesis: synthesize-secrets
+19bd7768 Add AI analysis: ai-analyze-secrets
+8dc80f7e fix(documents): upload new version against correct document id in dataroom view
+bb93baab fix: watermark download parity images flatten 21be
+9a36dc77 fix(integrations/slack): prevent channel list fetch from timing out
+cd374a9a Enable token page for teams with the tokens feature flag
+7fc0fed4 Open Tokens settings for Data Rooms plans (remove feature flag gate)
+0b580b78 fix(screen-protection): listen on both keydown and keyup for all shortcut groups
+aae4069c fix(notion): don't blur embedded videos (YouTube) when screen protection is on
+340d5471 fix: render full-width Notion pages at full width in viewer
+933da799 Fix Notion gallery card covers and Drive links
+4743eb72 fix: unblock notifications
+1e88cf87 fix: cloudfront AccessDenied for downloads with renamed filename
+81b8508e revert fix
+21d5a2ac fix: dataroom individual file download silently failing
+b7a02744 feat(tokens): redesign API tokens settings with dialogs and clean table
+b1fd5706 fix: exclude /mcp from auth middleware so remote MCP endpoint returns 401
+adb94175 fix(upload): silently skip OS junk files in folder picker
+8cf44605 fix: show dataroom index for drplus and higher and those with feature…
+5a912154 fix(viewer): hide page indicator when document has only 1 page

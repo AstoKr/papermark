@@ -1,0 +1,180 @@
+rules:
+  - id: papermark-no-auth-prisma-write
+    message: >
+      Prisma write operation in a handler that does not appear to authenticate
+      via getServerSession(). This endpoint may be missing authentication,
+      allowing unauthenticated database writes.
+    severity: HIGH
+    languages: [typescript]
+    paths:
+      include:
+        - pages/api/
+    patterns:
+      - pattern-either:
+          - pattern: prisma.$TABLE.create(...)
+          - pattern: prisma.$TABLE.update(...)
+          - pattern: prisma.$TABLE.delete(...)
+          - pattern: prisma.$TABLE.upsert(...)
+          - pattern: prisma.$TABLE.createMany(...)
+          - pattern: prisma.$TABLE.updateMany(...)
+          - pattern: prisma.$TABLE.deleteMany(...)
+      - pattern-not-inside: |
+          ...
+          getServerSession(...)
+          ...
+      - pattern-not-inside: |
+          ...
+          getToken(...)
+          ...
+      - pattern-not-inside: |
+          if (...) {
+            ...
+            process.env.$TRIGGER_SECRET === ...
+            ...
+          }
+
+  - id: papermark-sanitize-decode-after-strip
+    message: >
+      Detected sanitizeHtml() call followed by decodeHTML(). This ordering
+      is a stored XSS vulnerability: HTML entities encoded in the input survive
+      tag stripping, then become real HTML tags after decodeHTML() runs.
+      Found in: sanitize-html.ts (CVE-2026-44990 compounding).
+    severity: HIGH
+    languages: [typescript]
+    patterns:
+      - pattern: |
+          sanitizeHtml($CONTENT, ...)
+          ...
+          decodeHTML(...)
+
+  - id: papermark-cors-origin-reflection
+    message: >
+      CORS configuration reflects the request Origin header verbatim into
+      Access-Control-Allow-Origin with credentials allowed. This allows
+      any external website to make authenticated cross-origin requests on
+      behalf of a logged-in user. Found in: TUS viewer endpoint
+      (CVE-2026-57957).
+    severity: HIGH
+    languages: [typescript]
+    patterns:
+      - pattern-either:
+          - pattern: |
+              res.setHeader("Access-Control-Allow-Origin", req.headers.origin)
+          - pattern: |
+              res.setHeader("Access-Control-Allow-Origin", req.headers.origin || ...)
+      - pattern-inside: |
+          ...
+          res.setHeader("Access-Control-Allow-Credentials", "true")
+          ...
+
+  - id: papermark-secret-in-query-param
+    message: >
+      Authentication uses req.query.secret, passing the shared secret as a
+      URL query parameter. This leaks the secret through server access logs,
+      Referer headers, and browser history. Found in: revalidate.ts
+      (CWE-598).
+    severity: MEDIUM
+    languages: [typescript]
+    patterns:
+      - pattern: |
+          req.query.secret
+
+  - id: papermark-dangerouslysetinnerhtml-nonstatic
+    message: >
+      dangerouslySetInnerHTML with a non-literal value. If the expression
+      contains user-controlled data, this is an XSS sink. Review data flow
+      to ensure content is sanitized before rendering.
+    severity: HIGH
+    languages: [generic]
+    paths:
+      exclude:
+        - "*.md"
+        - methodology-raw/
+    patterns:
+      - pattern: |
+          dangerouslySetInnerHTML={{ __html: $EXPR }}
+      - pattern-not: |
+          dangerouslySetInnerHTML={{ __html: "..." }}
+      - pattern-not: |
+          dangerouslySetInnerHTML={{ __html: '' }}
+      - pattern-not: |
+          dangerouslySetInnerHTML={{ __html: "" }}
+
+  - id: papermark-zod-error-format-disclosure
+    message: >
+      Zod validation error details are returned to the client. This leaks
+      schema structure (field names, types, validation rules) to
+      attackers, enabling targeted fuzzing. Found in: webhooks and
+      agreement endpoints.
+    severity: MEDIUM
+    languages: [typescript]
+    patterns:
+      - pattern-either:
+          - pattern: $RESULT.error.format()
+          - pattern: $RESULT.error.flatten()
+      - pattern-inside: |
+          return res.status(...).json({..., details: $EXPR, ...})
+
+  - id: papermark-prisma-include-sensitive-fields
+    message: >
+      Prisma query includes sensitive viewer fields (viewerEmail, viewerId)
+      in the response. If this endpoint is unauthenticated, it leaks
+      protected viewer metadata. Found in: record_reaction.ts.
+    severity: MEDIUM
+    languages: [typescript]
+    patterns:
+      - pattern: |
+          include: { ... $VIEW: { select: { ... viewerEmail: true, ... } } ... }
+
+  - id: papermark-regexp-from-user-input
+    message: >
+      RegExp constructed from a runtime value (not a literal). If the
+      value is user-controlled, this can enable ReDoS (Regular Expression
+      Denial of Service) by submitting a pathological pattern like
+      (a|aa)+b. Found in: workflows engine.ts.
+    severity: LOW
+    languages: [typescript]
+    patterns:
+      - pattern: |
+          new RegExp($INPUT)
+      - pattern-not: |
+          new RegExp("...")
+      - pattern-not: |
+          new RegExp('...')
+
+  - id: papermark-python-xxe-xml-parse
+    message: >
+      Python xml.etree.ElementTree.parse() used on XML from user-uploaded
+      DOCX files. Use defusedxml.ElementTree instead to protect against
+      XXE (external entity) and billion laughs attacks. Found in:
+      docx-sanitizer.py.
+    severity: MEDIUM
+    languages: [python]
+    patterns:
+      - pattern-either:
+          - pattern: ET.parse($PATH)
+          - pattern: xml.etree.ElementTree.parse($PATH)
+
+  - id: papermark-nextauth-no-rate-limit
+    message: >
+      NextAuth configuration does not appear to include rate limiting.
+      Authentication endpoints without rate limiting enable brute-force
+      attacks, email enumeration, and mass email-sending. Consider
+      adding a rate limiter (e.g. @upstash/ratelimit) to the
+      [...nextauth].ts handler.
+    severity: LOW
+    languages: [typescript]
+    paths:
+      include:
+        - pages/api/auth/
+    patterns:
+      - pattern: |
+          import NextAuth, { type NextAuthOptions } from "next-auth"
+      - pattern-not-inside: |
+          ...
+          import { ... } from "@upstash/ratelimit"
+          ...
+      - pattern-not-inside: |
+          ...
+          import { ... } from "express-rate-limit"
+          ...
